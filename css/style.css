@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: red;
+}
+
+.bg-dark {
+    background-color: #3678CC!important;
+
+}
+
+.navbar-nav a{
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.navbar-nav a:hover{
+	background: blue;
+}
+.carousel-caption{
+	text-align: left;
+}
+.fbg{
+	background: #808080;
+}
+.btn-color{
+	background-color: yellow;
+}
